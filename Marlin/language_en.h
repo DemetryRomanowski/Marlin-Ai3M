@@ -251,7 +251,7 @@
   #define MSG_UBL_BUILD_PLA_MESH              _UxGT("Build PLA Mesh")
 #endif
 #ifndef MSG_UBL_BUILD_ABS_MESH
-  #define MSG_UBL_BUILD_ABS_MESH              _UxGT("Build ABS Mesh")
+  #define MSG_UBL_BUILD_ABS_MESH              _UxGT("Build PETG Mesh")
 #endif
 #ifndef MSG_UBL_BUILD_COLD_MESH
   #define MSG_UBL_BUILD_COLD_MESH             _UxGT("Build Cold Mesh")
@@ -269,7 +269,7 @@
   #define MSG_UBL_VALIDATE_PLA_MESH           _UxGT("Validate PLA Mesh")
 #endif
 #ifndef MSG_UBL_VALIDATE_ABS_MESH
-  #define MSG_UBL_VALIDATE_ABS_MESH           _UxGT("Validate ABS Mesh")
+  #define MSG_UBL_VALIDATE_ABS_MESH           _UxGT("Validate PETG Mesh")
 #endif
 #ifndef MSG_UBL_VALIDATE_CUSTOM_MESH
   #define MSG_UBL_VALIDATE_CUSTOM_MESH        _UxGT("Validate Custom Mesh")
